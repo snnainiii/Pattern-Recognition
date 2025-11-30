@@ -120,12 +120,3 @@ Metode **GLCM + SVM** efektif untuk klasifikasi ASD berbasis citra MRI dengan ti
 
 `GLCM` • `SVM` • `Autism Spectrum Disorder` • `MRI` • `Pattern Recognition` • `Machine Learning` • `Feature Extraction`
 
----
-
-## 👩‍💻 Author  
-
-**Siti Nur Aini**  
-📍 Teknik Informatika, Universitas Trunojoyo Madura  
-📧 [stnuraini@gmail.com](mailto:stnuraini082@gmail.com)
-
----
